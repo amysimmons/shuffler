@@ -1,7 +1,17 @@
 var teams = [
-	'a',
-	'b',
-	'c',
+	'Living in London',
+	'Good News Bot',
+	'The Lonely Traveller',
+	'24 Hours In',
+	'Rainy Days',
+	'Creative Corner',
+	'London Dating',
+	'Paws Around Town',
+	'Passport To My Kitchen',
+	'Saving Romanian Puppies',
+	'Silverthorn Dog Training',
+	'Code First Girls',
+	'Zai Shanghai',
 ];
 
 // make a copy of the teams
