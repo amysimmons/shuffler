@@ -33,6 +33,7 @@ $('.shuffle-btn').on('click', () => {
 	// if there are no more teams to go, return
 	var upNextIndex = remainingTeams.indexOf(upNext);
 	if (upNextIndex < 0) {
+		$('.container').html(`<iframe src="https://giphy.com/embed/LwfqhkSZhEHUk" width="428" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/taylor-swift-red-tour-LwfqhkSZhEHUk">via GIPHY</a></p>`)
 		return;
 	}
 
